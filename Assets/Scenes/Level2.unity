@@ -3015,7 +3015,6 @@ GameObject:
   - component: {fileID: 1600726075}
   - component: {fileID: 1600726074}
   - component: {fileID: 1600726073}
-  - component: {fileID: 1600726082}
   - component: {fileID: 1600726083}
   m_Layer: 0
   m_Name: pixil-layer-1
@@ -3272,18 +3271,6 @@ Transform:
   m_Father: {fileID: 1789866607}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1600726082
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1600726072}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87834d86f42f6a8449639bde209311a6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1600726083
 MonoBehaviour:
   m_ObjectHideFlags: 0
